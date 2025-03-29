@@ -5,8 +5,8 @@
 ---
 
 ### About Me
-**Creator | Designer | Code Enthusiast**
-**Doing whatever I like - coding, designing, or debugging... sometimes all at once.**
+**Creator | Designer | Code Enthusiast**  
+**Doing whatever I like - coding, designing, or debugging... sometimes all at once.**  
 **Building:** Currently building things that will probably make me question my life choices later.
 
 ---
@@ -25,7 +25,7 @@
 ---
 
 ### Open For Collaborations!
-I usually work alone, but if you have a cool idea, I might just make an exception. No promises though.
+I usually work alone, but if you have a cool idea, I might just make an exception. No promises though.  
 **Warning:** I'm a perfectionist - so be prepared for endless revisions and tweaks!
 
 ---
